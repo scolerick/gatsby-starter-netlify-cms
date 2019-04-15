@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Sarah Colerick
-image: /img/50679417_10210917679297948_3679911795776028672_n.jpg
+image: /img/47559068702_04d7866d84_z.jpg
 heading: A Designer With A Skill
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
